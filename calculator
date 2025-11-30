@@ -2,3 +2,6 @@
 
 #performing addition operation 
 x=atb
+
+#performing subtraction operation
+x=a-b
