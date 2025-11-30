@@ -5,3 +5,7 @@ x=atb
 
 #performing subtraction operation
 x=a-b
+
+#performing multiply operation
+x=a*b
+
